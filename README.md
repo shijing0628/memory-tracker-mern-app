@@ -1,6 +1,6 @@
 memory-tracker-mern-app
 
-React, Node.js, Express & MongoDB
+React, Node.js, Express & MongoDB, redux
 
 2021-1-11
 
