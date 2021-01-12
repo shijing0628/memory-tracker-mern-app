@@ -14,3 +14,8 @@ npm install
 to install all independences in client folder and server folder before start.
 
 Port: 5000 for backend
+
+![](2021-01-12-12-42-10.png)
+<br>
+
+![](2021-01-12-12-42-40.png)
