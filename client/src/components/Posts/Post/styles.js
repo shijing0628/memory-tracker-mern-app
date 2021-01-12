@@ -19,7 +19,8 @@ export default makeStyles({
   justifyContent: 'space-between',
   borderRadius: '15px',
   height: '100%',
-  position: 'relative',
+  position: 'relative'
+
  },
  overlay: {
   position: 'absolute',
@@ -40,9 +41,11 @@ export default makeStyles({
   display: 'flex',
   justifyContent: 'space-between',
   margin: '20px',
+
  },
  title: {
   padding: '0 16px',
+  width: '100%'
  },
  cardActions: {
   padding: '0 16px 8px 16px',
